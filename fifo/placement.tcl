@@ -5,7 +5,7 @@ read_liberty /home/sudheer/OpenROAD/test/Nangate45/Nangate45_typ.lib
 
 read_def pins.def
 
-global_placement
+global_placement -density 0.70
 
 detailed_placement
 
