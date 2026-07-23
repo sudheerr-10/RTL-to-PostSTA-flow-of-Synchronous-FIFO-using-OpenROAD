@@ -10,7 +10,7 @@ read_sdc fifo.sdc
 
 initialize_floorplan \
     -site FreePDK45_38x28_10R_NP_162NW_34O \
-    -utilization 40 \
+    -utilization 65 \
     -aspect_ratio 1.0 \
     -core_space 10
 
